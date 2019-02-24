@@ -1,0 +1,7 @@
+version : '1'
+services:
+  db:
+    image: Patrol:1.0.0
+    container_name: Patrol
+    volumes:
+       
