@@ -57,7 +57,7 @@ prompt-toolkit==1.0.15
 ptyprocess==0.5.2
 pycparser==2.18
 pycrypto==2.6.1
-Pygments==2.2.0
+Pygments==2.7.4
 PyJWT==1.4.2
 pylint==2.0.0.dev0
 pymongo==3.6.1
