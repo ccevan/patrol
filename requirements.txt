@@ -10,7 +10,7 @@ backports.shutil-get-terminal-size==1.0.0
 billiard==3.5.0.3
 blinker==1.4
 bottle==0.12.13
-celery==4.1.0
+celery==5.2.2
 certifi==2017.7.27.1
 cffi==1.11.5
 chardet==3.0.4
